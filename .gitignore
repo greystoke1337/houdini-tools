@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+*.pyo
+houdini_hotas_control/config.json
